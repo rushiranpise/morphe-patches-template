@@ -155,6 +155,62 @@ object Constants {
         name = "Yatri",
         packageName = "com.yatrirailways.yatri",
         appIconColor = 0xFF6B00,
-        targets = listOf(AppTarget(version = "5.0.3"))
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // Proxyman — Network Debugger
+    val PROXYMAN_COMPATIBILITY = Compatibility(
+        name = "Proxyman",
+        packageName = "com.proxyman.proxymanandroid",
+        appIconColor = 0xFF6B35,
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // SHAREit Premium
+    val SHAREIT_COMPATIBILITY = Compatibility(
+        name = "SHAREit Premium",
+        packageName = "shareit.premium",
+        appIconColor = 0xFF4B00,
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // NetMonster — Network Cell Info, Signal
+    val NETMONSTER_COMPATIBILITY = Compatibility(
+        name = "NetMonster",
+        packageName = "cz.mroczis.netmonster",
+        appIconColor = 0x1565C0,
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // Dubox Drive — Cloud Storage
+    val DUBOXDRIVE_COMPATIBILITY = Compatibility(
+        name = "Dubox Drive",
+        packageName = "com.dubox.drive",
+        appIconColor = 0x2EAAFF,
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // SAI — Split APKs Installer by MTV
+    val SAI_COMPATIBILITY = Compatibility(
+        name = "SAI - Split APKs Installer",
+        packageName = "com.mtv.sai",
+        appIconColor = 0x1565C0,
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // BlockerHero — App Blocker & Focus Timer
+    val BLOCKERHERO_COMPATIBILITY = Compatibility(
+        name = "BlockerHero",
+        packageName = "com.blockerhero",
+        appIconColor = 0xFF5252,
+        targets = listOf(AppTarget(version = null))
+    )
+
+    // nzb360 — Usenet & Torrent Manager
+    val NZB360_COMPATIBILITY = Compatibility(
+        name = "nzb360",
+        packageName = "com.kevinforeman.nzb360",
+        appIconColor = 0x1565C0,
+        targets = listOf(AppTarget(version = "23.4"))
     )
 }

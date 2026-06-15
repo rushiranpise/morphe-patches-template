@@ -1,5 +1,6 @@
 {
-  "version": "1.5.0",
+  "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
+  "version": "1.6.0-dev.8",
   "patches": [
     {
       "name": "Bypass License Check",
@@ -327,6 +328,106 @@
       "options": []
     },
     {
+      "name": "Unlock Lifetime",
+      "description": "Unlocks lifetime subscription features in BlockerHero.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.blockerhero",
+          "name": "BlockerHero",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FF5252",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Lifetime",
+      "description": "Unlocks all Lifetime features in Proxyman.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.proxyman.proxymanandroid",
+          "name": "Proxyman",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FF6B35",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Lifetime",
+      "description": "Unlocks SHAREit lifetime premium.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "shareit.premium",
+          "name": "SHAREit Premium",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#FF4B00",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Lifetime Access",
+      "description": "Unlocks Lifetime access in Nzb360.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.kevinforeman.nzb360",
+          "name": "nzb360",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#1565C0",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "23.4",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Unlock Premium",
       "description": "Unlocks Premium Features In the App.",
       "default": true,
@@ -428,6 +529,31 @@
     },
     {
       "name": "Unlock Premium",
+      "description": "Unlocks all premium features.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "cz.mroczis.netmonster",
+          "name": "NetMonster",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#1565C0",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Premium",
       "description": "Unlocks all Photo Editor premium features by bypassing license checks.",
       "default": true,
       "dependencies": [],
@@ -438,6 +564,31 @@
           "description": null,
           "apkFileType": null,
           "appIconColor": "#FF6B9D",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock Premium",
+      "description": "Bypasses PairIP license check, paywall, ads, and pro upsell in SAI.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.mtv.sai",
+          "name": "SAI - Split APKs Installer",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#1565C0",
           "signatures": null,
           "targets": [
             {
@@ -678,6 +829,31 @@
     },
     {
       "name": "Unlock VIP",
+      "description": "Unlocks Dubox Drive VIP/SVIP (Premium+)",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.dubox.drive",
+          "name": "Dubox Drive",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": "#2EAAFF",
+          "signatures": null,
+          "targets": [
+            {
+              "version": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Unlock VIP",
       "description": "Unlocks Yatri VIP by forcing active plan status and spoofing active plan DB query.",
       "default": true,
       "dependencies": [],
@@ -691,7 +867,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "5.0.3",
+              "version": null,
               "isExperimental": false,
               "minSdk": null,
               "description": null

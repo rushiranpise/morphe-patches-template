@@ -1,3 +1,51 @@
+## [1.6.0-dev.8](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.7...v1.6.0-dev.8) (2026-06-15)
+
+### ✨ New Features
+
+* Add patches for NZB360 app ([9327679](https://github.com/rushiranpise/morphe-patches/commit/9327679ca778f790d5e00ffb1b0865a4231c6dba))
+
+## [1.6.0-dev.7](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.6...v1.6.0-dev.7) (2026-06-15)
+
+### ✨ New Features
+
+* add blockerhero ([f8d885a](https://github.com/rushiranpise/morphe-patches/commit/f8d885acb745310c601ca0eae6c0850f039b9eb4))
+
+## [1.6.0-dev.6](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.5...v1.6.0-dev.6) (2026-06-15)
+
+### ✨ New Features
+
+* add sai ([d0d47e7](https://github.com/rushiranpise/morphe-patches/commit/d0d47e743e4177cf8711ba2401cda70618046c7d))
+
+## [1.6.0-dev.5](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.4...v1.6.0-dev.5) (2026-06-15)
+
+### ✨ New Features
+
+* add TeraBox ([740303d](https://github.com/rushiranpise/morphe-patches/commit/740303dcab889f18c98ae725338964fbb4fb8a77))
+
+## [1.6.0-dev.4](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.3...v1.6.0-dev.4) (2026-06-14)
+
+### 🐛 Bug Fixes
+
+* Refactor BypassPaywallPatch to use updated lifecycle classes ([ef8ffbf](https://github.com/rushiranpise/morphe-patches/commit/ef8ffbfa4b2a3279a9ddb63fa75ffef0935ac0d4)), closes [/github.com/rushiranpise/morphe-patches/issues/12#issuecomment-4695720422](https://github.com/rushiranpise//github.com/rushiranpise/morphe-patches/issues/12/issues/issuecomment-4695720422)
+
+## [1.6.0-dev.3](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.2...v1.6.0-dev.3) (2026-06-11)
+
+### ✨ New Features
+
+* add netmonster patches ([0cd8d94](https://github.com/rushiranpise/morphe-patches/commit/0cd8d94b598c1ec20b197e646df6ca2ab47ce84f))
+
+## [1.6.0-dev.2](https://github.com/rushiranpise/morphe-patches/compare/v1.6.0-dev.1...v1.6.0-dev.2) (2026-06-11)
+
+### ✨ New Features
+
+* add shareit premium patches ([a78dbd6](https://github.com/rushiranpise/morphe-patches/commit/a78dbd6cf28952ae9beacf07a505f65f862747ba))
+
+## [1.6.0-dev.1](https://github.com/rushiranpise/morphe-patches/compare/v1.5.0...v1.6.0-dev.1) (2026-06-11)
+
+### ✨ New Features
+
+* add proxyman patches ([8f44581](https://github.com/rushiranpise/morphe-patches/commit/8f44581a1451551a9ce26bba807c087f3a0d59bc))
+
 ## [1.5.0](https://github.com/rushiranpise/morphe-patches/compare/v1.4.0...v1.5.0) (2026-06-10)
 
 ### 🐛 Bug Fixes
